@@ -9,7 +9,7 @@
     "locales": {
         "en": {
             "localized_name": "Chukwuemeka Abadom",
-            "localized_name_stylized": "<img src='images/svg/logo.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
+            "localized_name_stylized": "<img src='images/svg/logo-{theme}.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Java Backend Developer",
@@ -19,7 +19,7 @@
         },
         "nl": {
             "localized_name": "Chukwuemeka Abadom",
-            "localized_name_stylized": "<img src='images/svg/logo.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
+            "localized_name_stylized": "<img src='images/svg/logo-{theme}.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
             "status_message_available_for_freelance": "Beschikbaar voor freelance!",
             "roles": [
                 "Java Backend Ontiwikkelaar",
