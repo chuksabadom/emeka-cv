@@ -138,7 +138,7 @@
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "en": { "title": "Quick {{Facts}}" },
+                "en": { "title": "{{Life}} Updates" },
                 "nl": { "title": "Snelle {{Feiten}}" }
             },
             "settings": {
