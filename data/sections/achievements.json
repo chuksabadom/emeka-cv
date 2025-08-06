@@ -212,7 +212,7 @@
                     "date": {"year": 2025, "month": 3},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                            {"href": "https://github.com/chuksabadom/nerdy-resume-profile", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
                         ],
                         "screenshots": [],
                         "screenshotsAspectRatio": "",
