@@ -1,0 +1,124 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Experience",
+                "title_short_nav": "Experience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "{{Work}} Experience"
+            },
+            "nl": {
+                "title_short": "Ervaring",
+                "title_short_nav": "Ervaring",
+                "title_long_prefix": "Samenvatting van mijn",
+                "title_long": "{{Werk}} Ervaring"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "dateStart"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/content/zenith-bank.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2011, "month": 9},
+                    "dateEnd": {"year": 2017, "month": 9},
+                    "locales": {
+                        "en": {
+                            "title": "{{Operations}} Staff",
+                            "province": "PortHarcourt",
+                            "country": "Nigeria",
+                            "institution": "Zenith Bank",
+                            "text": "Worked in the operations department, managing daily banking transactions and ensuring compliance with financial regulations. Developed skills in customer service and financial operations.",
+                            "list": [],
+                            "tags": ["Finance", "Banking", "Operations"]
+                        },
+                        "nl": {
+                            "title": "{{Operations}} Medewerker",
+                            "province": "PortHarcourt",
+                            "country": "Nigeria",
+                            "institution": "Zenith Bank",
+                            "text": "Werkte op de afdeling operaties, beheerde dagelijkse banktransacties en zorgde voor naleving van financiële regelgeving. Ontwikkelde vaardigheden in klantenservice en financiële operaties.",
+                            "list": [],
+                            "tags": ["Finance", "Banking", "Operations"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/content/keylane-bv.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2019, "month": 8},
+                    "dateEnd": {"year": 2022, "month": 9},
+                    "locales": {
+                        "en": {
+                            "title": "{{Software}} Engineer",
+                            "province": "Utrecht",
+                            "country": "Netherlands",
+                            "institution": "Keylane BV",
+                            "text": "Worked as part of a team that designed and developed the Business Intelligence platform for Keylane, focusing on data analytics and visualization to enhance decision-making processes.",
+                            "list": [],
+                            "tags": ["Java", "Relational DB", "Maven", "Gradle", "Cognos"]
+                        },
+                        "nl": {
+                            "title": "{{Software}} Engineer",
+                            "province": "Utrecht",
+                            "country": "Nederland",
+                            "institution": "Keylane BV",
+                            "text": "Werkte als onderdeel van een team dat het Business Intelligence-platform voor Keylane ontwierp en ontwikkelde, met de focus op data-analyse en visualisatie om besluitvormingsprocessen te verbeteren.",
+                            "list": [],
+                            "tags": ["Java", "Relationele DB", "Maven", "Gradle", "Cognos"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/content/and-digital.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"now": true},
+                    "locales": {
+                        "en": {
+                            "title": "{{Senior Software}} Engineer",
+                            "province": "Rotterdam",
+                            "country": "Netherlands",
+                            "institution": "AND Digital",
+                            "text": "Worked as a Senior Software Engineer at AND Digital, leading the development of scalable software solutions for various clients. Focused on cloud-native applications and microservices architecture. Some clients include: ",
+                            "list": [
+                                "ABN AMRO",
+                                "SAP-SIGNAVIO",
+                                "Picnic"
+                            ],
+                            "tags": ["Java", "Kotlin", "AWS", "Azure", "Software Development", "Database Management"]
+                        },
+                        "nl": {
+                            "title": "{{Senior Software}} Engineer",
+                            "province": "Rotterdam",
+                            "country": "Nederland",
+                            "institution": "AND Digital",
+                            "text": "Werkte als Senior Software Engineer bij AND Digital, leidde de ontwikkeling van schaalbare softwareoplossingen voor verschillende klanten. Focus op cloud-native applicaties en microservices-architectuur. Enkele klanten zijn: ",
+                            "list": [
+                                "ABN AMRO",
+                                "SAP-SIGNAVIO",
+                                "Picnic"
+                            ],
+                            "tags": ["Java", "Kotlin", "AWS", "Azure", "Softwareontwikkeling", "Databasebeheer"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

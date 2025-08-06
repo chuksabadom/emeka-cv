@@ -1,0 +1,343 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "nl": {
+                "title_short": "Recente updates",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Bekijk mijn",
+                "title_long": "Recente {{Updates}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "text": "Apps Published"
+                        },
+                        "nl": {
+                            "text": "Gepubliceerde Apps"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-star",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "10+",
+                            "text": "Stars on GitHub"
+                        },
+                        "nl": {
+                            "text": "Sterren op GitHub"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "10",
+                            "text": "Countries visited"
+                        },
+                        "nl": {
+                            "text": "Bezochte Landen"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-diagram-project",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "09",
+                            "text": "Open-source projects"
+                        },
+                        "nl": {
+                            "text": "Open-source Projecten"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-person-running",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "400km",
+                            "text": "Distance ran in 2025 so far"
+                        },
+                        "nl": {
+                            "text": "Afstand gerend in 2025 tot nu toe"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "1,000,000+",
+                            "text": "Lines of code"
+                        },
+                        "nl": {
+                            "text": "Regels code"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "faIcon": "fa-solid fa-heart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "text": "Passion for learning"
+                        },
+                        "nl": {
+                            "text": "Passie voor leren"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "{{Life}} Updates" },
+                "nl": { "title": "Snelle {{Feiten}}" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2019, "month": 4},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Relocating to {{Netherlands!}}",
+                            "province": "Almere",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I’ve recently made the move to Almere, Netherlands, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant city has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+                        },
+                        "nl": {
+                            "title": "Verhuizing naar {{Nederland!}}",
+                            "province": "Almere",
+                            "country": "Nederland",
+                            "institution": "",
+                            "text": "Ik ben onlangs verhuisd naar Almere, Nederland, om nieuwe kansen te verkennen, zowel professioneel als persoonlijk. Ik kijk ernaar uit om te ontdekken wat deze bruisende stad te bieden heeft en alle uitdagingen en ervaringen aan te gaan die bij dit nieuwe hoofdstuk in mijn leven komen kijken. Enthousiast over wat komen gaat! Blijf op de hoogte voor updates over mijn reis en de avonturen die wachten in de Gouden Eeuw!"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2020, "month": 10},
+                    "preview": {
+                        "links": [{
+                            "href": "",
+                            "tooltipString": "open_website",
+                            "faIcon": "fa-solid fa-eye"
+                        }],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Got {{Married!}}",
+                            "province": "Amsterdam",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I’m thrilled to share that I got married in Amsterdam! 💍❤️ It was a beautiful ceremony surrounded by family and friends though it was during the corona period, and I couldn’t be happier to start this new chapter of my life with my partner. Here’s to love, laughter, and a lifetime of happiness together! 🥂"
+                        },
+                        "nl": {
+                            "title": "Getrouwd in {{Amsterdam!}}",
+                            "province": "Amsterdam",
+                            "country": "Nederland",
+                            "institution": "",
+                            "text": "Ik ben verheugd te delen dat ik ben getrouwd in Amsterdam! 💍❤️ Het was een prachtige ceremonie omringd door familie en vrienden, hoewel het tijdens de coronaperiode was, en ik kan niet gelukkiger zijn om dit nieuwe hoofdstuk van mijn leven met mijn partner te beginnen. Op liefde, vreugde en een leven lang geluk samen! 🥂"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2023, "month": 6},
+                    "preview": {
+                        "links": [{
+                            "href": "",
+                            "tooltipString": "open_website",
+                            "faIcon": "fa-solid fa-eye"
+                        }],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started {{500km running challenge!}}",
+                            "province": "Almere",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I am thrilled to announce that I have embarked on a personal challenge to run 500 kilometers this year! 🏃‍♂️💪 This journey is not just about fitness, but also about pushing my limits and embracing a healthier lifestyle. I’ll be sharing my progress, tips, and experiences along the way. If you’re interested in following my journey or joining me in this challenge, feel free to check out my YouTube channel for updates and motivation. Let’s run towards our goals together!"
+                        },
+                        "nl": {
+                            "title": "Gestart met de {{500km hardloopuitdaging!}}",
+                            "province": "Almere",
+                            "country": "Nederland",
+                            "institution": "",
+                            "text": "Ik ben enthousiast om aan te kondigen dat ik een persoonlijke uitdaging ben aangegaan om dit jaar 500 kilometer te hardlopen! 🏃‍♂️💪 Deze reis gaat niet alleen over fitness, maar ook over het verleggen van mijn grenzen en het omarmen van een gezondere levensstijl. Ik zal mijn voortgang, tips en ervaringen onderweg delen. Als je geïnteresseerd bent in het volgen van mijn reis of meedoen aan deze uitdaging, voel je vrij om mijn YouTube-kanaal te bekijken voor updates en motivatie. Laten we samen naar onze doelen toe rennen!"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2024, "month": 9},
+                    "preview": {
+                        "links": [{
+                            "href": "",
+                            "tooltipString": "open_website",
+                            "faIcon": "fa-solid fa-eye"
+                        }],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Got my {{permanent residency!}}",
+                            "province": "Almere",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I am excited to share that I have successfully obtained my permanent residency in the Netherlands! 🇳🇱 This milestone marks a significant step in my journey here, and I am looking forward to continuing to build my life and career in this beautiful country. I am grateful for the opportunities that lie ahead and can’t wait to see what the future holds!"
+                        },
+                        "nl": {
+                            "title": "Mijn {{permanente verblijfsvergunning!}}",
+                            "province": "Almere",
+                            "country": "Nederland",
+                            "institution": "",
+                            "text": "Ik ben enthousiast om te delen dat ik met succes mijn permanente verblijfsvergunning in Nederland heb verkregen! 🇳🇱 Deze mijlpaal markeert een belangrijke stap in mijn reis hier, en ik kijk ernaar uit om mijn leven en carrière in dit prachtige land voort te zetten. Ik ben dankbaar voor de kansen die voor me liggen en kan niet wachten om te zien wat de toekomst brengt!"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2025, "month": 7},
+                    "preview": {
+                        "links": [
+                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Working on a {{food ordering webapp!}}",
+                            "province": "Almere",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I’m excited to share that I’m currently working on a new food ordering web application! 🍔🍕 This project aims to provide a seamless and user-friendly experience for customers looking to order their favorite meals online. Some of the key features include:",
+                            "list": [
+                                "Food ordering system with real-time updates",
+                                "User-friendly interface with intuitive navigation",
+                                "Integration with popular payment gateways for secure transactions",
+                                "Admin dashboard for managing orders and menu items",
+                                "Responsive design for optimal performance on all devices",
+                                "Customer reviews and ratings to enhance user trust",
+                                "Order history and tracking for a personalized experience"
+                            ]
+                        },
+                        "nl": {
+
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {"year": 2025, "month": 8},
+                    "preview": {
+                        "links": [
+                            {"href": "https://chuksabadom.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+                            {"href": "https://github.com/chuksabadom/nerdy-resume-portfolio", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Launched my {{personal website!}}",
+                            "province": "Almere",
+                            "country": "Netherlands",
+                            "institution": "",
+                            "text": "I’m excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It’s been a labor of love, and I can’t wait for you all to explore it. Here are some highlights of what you can find on the site:",
+                            "list": [
+                                "Portfolio showcasing my projects and contributions",
+                                "Blog with articles on technology, coding, and personal experiences",
+                                "Contact form for inquiries and collaborations",
+                                "Links to my social media profiles and GitHub"
+                            ]
+                        },
+                        "nl": {
+                            "title": "Gepubliceerd mijn {{persoonlijke website!}}",
+                            "province": "Almere",
+                            "country": "Nederland",
+                            "institution": "",
+                            "text": "Ik ben enthousiast om de lancering van mijn [[persoonlijke website]] aan te kondigen! 🎉 Dit platform is een ruimte waar ik mijn projecten, blogposts en inzichten in de wereld van technologie en ontwikkeling kan delen. Het is een arbeid van liefde geweest, en ik kan niet wachten tot jullie het allemaal kunnen verkennen. Hier zijn enkele hoogtepunten van wat je op de site kunt vinden:",
+                            "list": [
+                                "Portfolio met mijn projecten en bijdragen",
+                                "Blog met artikelen over technologie, coderen en persoonlijke ervaringen",
+                                "Contactformulier voor vragen en samenwerkingen",
+                                "Links naar mijn sociale media profielen en GitHub"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

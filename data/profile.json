@@ -1,0 +1,31 @@
+{
+    "name": "Chukwuemeka Abadom",
+    "profilePictureUrl": "images/content/pfp.png",
+    "resumePdfUrl": "https://chuksabadom.github.io/resume.pdf",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+    "locales": {
+        "en": {
+            "localized_name": "Chukwuemeka Abadom",
+            "localized_name_stylized": "<img src='images/svg/logo.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
+            "status_message_available_for_freelance": "Available for freelance!",
+            "roles": [
+                "Java Backend Developer",
+                "Kotlin Backend Developer",
+                "React Developer"
+            ]
+        },
+        "nl": {
+            "localized_name": "Chukwuemeka Abadom",
+            "localized_name_stylized": "<img src='images/svg/logo.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
+            "status_message_available_for_freelance": "Beschikbaar voor freelance!",
+            "roles": [
+                "Java Backend Ontiwikkelaar",
+                "Java Backend Ontwikkelaar",
+                "React Ontwikkelaar"
+            ]
+        }
+    }
+}
