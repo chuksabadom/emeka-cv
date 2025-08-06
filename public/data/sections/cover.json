@@ -1,0 +1,228 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Greetings...",
+                "title_long": "I'm {{Chukwuemeka Abadom!}}"
+            },
+            "nl": {
+                "title_short": "Welkom!",
+                "title_short_nav": "Over mij",
+                "title_long_prefix": "Groetjes...",
+                "title_long": "Ik ben {{Chukwuemeka Abadom!}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Almere – Netherlands",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "pi pi-map-marker"
+                },
+                {
+                    "id": 2,
+                    "label": "chukwuemeka.abadom@gmail.com",
+                    "link": {"href": "mailto:chukwuemeka.abadom@gmail.com", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "in/chukwuemeka-abadom",
+                    "link": {"href": "https://www.linkedin.com/in/chukwuemeka-abadom-6b9b0427/", "tooltipString": "connect_with_me"},
+                    "faIcon": "fa-brands fa-linkedin"
+                },
+                {
+                    "id": 4,
+                    "label": "@chuksabadom",
+                    "link": {"href": "https://github.com/chuksabadom", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "{{A wee bit}} about me..."},
+                "nl": {"title": "{{Een klein beetje}} over mij..."}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/content/computer.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>I am a seasoned {{Java}} developer with [[over six 6 years]] of professional experience, specializing in backend development with a little foundation in frontend technologies. I have also worked extensively with Kotlin in production environments, contributing to robust and scalable systems.</p><p>This diverse technical background enables me to adapt seamlessly to a wide range of project requirements — from designing and implementing reliable APIs to optimizing system performance and supporting full-stack development initiatives.</p><p>I look forward to the opportunity to contribute my expertise and collaborate on impactful, forward-thinking [[solutions.]]</p>"
+                        },
+                        "nl": {
+                            "text": "<p>Ik ben een ervaren {{Java}}-ontwikkelaar met [[meer dan 6 jaar]] professionele ervaring, gespecialiseerd in backend-ontwikkeling met een beetje basiskennis van frontend-technologieën. Ik heb ook uitgebreid gewerkt met Kotlin in productieomgevingen, wat heeft bijgedragen aan robuuste en schaalbare systemen.</p><p>Deze diverse technische achtergrond stelt me in staat om me naadloos aan te passen aan een breed scala aan projectvereisten — van het ontwerpen en implementeren van betrouwbare API's tot het optimaliseren van systeemprestaties en het ondersteunen van full-stack ontwikkelingsinitiatieven.</p><p>Ik kijk ernaar uit om mijn expertise bij te dragen en samen te werken aan impactvolle, vooruitstrevende [[oplossingen.]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "es": {"title": "Intereses {{personales}}"},
+                "fr": {"title": "Intérêts {{personnels}} "},
+                "ko": {"title": "개인 {{관심사}}"}
+            },
+            "items": [
+
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Investing}} & Finance",
+                            "text": "Learning the basics of stocks, crypto and personal finance."
+                        },
+                        "nl": {
+                            "title": "{{Investeren}} & Financiën",
+                            "text": "De basis van aandelen, crypto en persoonlijke financiën leren."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-book-open",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Reading}} & Literature",
+                            "text": "Diving into books and exploring various genres of literature."
+                        },
+                        "nl": {
+                            "title": "{{Lezen}} & Literatuur",
+                            "text": "In boeken duiken en verschillende genres van literatuur verkennen."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "",
+                    "faIcon": "fa-solid fa-dumbbell",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Fitness}} & Health",
+                            "text": "Staying active and maintaining a healthy lifestyle."
+                        },
+                        "nl": {
+                            "title": "{{Fitness}} & Gezondheid",
+                            "text": "Actief blijven en een gezonde levensstijl behouden."
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-music",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Music}} & Dancing",
+                            "text": "Listening to music and dancing to various genres and rhythms."
+                        },
+                        "nl": {
+                            "title": "{{Muziek}} & Dancing",
+                            "text": "Naar muziek luisteren en dansen op verschillende genres en ritmes."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Photography}} & Photoshop",
+                            "text": "Enhancing photos through creative editing techniques."
+                        },
+                        "nl": {
+                            "title": "{{Fotografie}} & Photoshop",
+                            "text": "Foto's verbeteren door middel van creatieve bewerkingstechnieken."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-solid fa-plane",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "label": null,
+                    "link": {
+                        "href": null,
+                        "tooltipString": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Travel}} & Exploration",
+                            "text": "Exploring new places and cultures around the world."
+                        },
+                        "nl": {
+                            "title": "{{Reizen}} & Verkenning",
+                            "text": "Nieuwe plaatsen en culturen over de hele wereld verkennen."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
