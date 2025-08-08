@@ -63,7 +63,7 @@
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 3,
                     "img": "",
                     "faIcon": "fa-solid fa-window-restore",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -81,7 +81,7 @@
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "img": "",
                     "faIcon": "fa-solid fa-lock",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -99,7 +99,7 @@
                     }
                 },
                 {
-                    "id": 4,
+                    "id": 5,
                     "img": "",
                     "faIcon": "fa-solid fa-code",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -175,16 +175,16 @@
                     "img": "",
                     "faIcon": "fa-solid fa-database",
                     "faIconColors": {"bg": "", "fill": "#4479A1"},
-                    "date": {"year": 2020, "month": 10},
+                    "date": {"year": 2019, "month": 1},
                     "percentage": 90,
                     "locales": {
                         "en": {
-                            "title": "MySQL",
-                            "text": "I can manage and optimize MySQL databases for performance and reliability.",
+                            "title": "Database",
+                            "text": "I have a solid understanding of SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB.",
                             "level": ""
                         },
                         "nl": {
-                            "text": "Ik kan MySQL-databases beheren en optimaliseren voor prestaties en betrouwbaarheid."
+                            "text": "Ik heb een solide begrip van SQL- en NoSQL-databases, waaronder MySQL, PostgreSQL en MongoDB."
                         }
                     }
                 },
@@ -193,7 +193,7 @@
                     "img": "images/content/springboot.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#CC0000"},
-                    "date": {"year": 2020, "month": 8},
+                    "date": {"year": 2021, "month": 1},
                     "percentage": 80,
                     "locales": {
                         "en": {
@@ -229,7 +229,7 @@
                     "img": "",
                     "faIcon": "fa-solid fa-cloud",
                     "faIconColors": {"bg": "", "fill": "#FF9900"},
-                    "date": {"year": 2021, "month": 5},
+                    "date": {"year": 2022, "month": 4},
                     "percentage": 75,
                     "locales": {
                         "en": {
@@ -247,7 +247,7 @@
                     "img": "",
                     "faIcon": "fa-brands fa-git",
                     "faIconColors": {"bg": "", "fill": "#F05032"},
-                    "date": {"year": 2018, "month": 1},
+                    "date": {"year": 2018, "month": 11},
                     "percentage": 85,
                     "locales": {
                         "en": {
@@ -255,45 +255,8 @@
                             "text": "Complete understanding of Git for version control and collaboration.",
                             "level": ""
                         },
-                        "es": {
-                            "text": "Comprensión completa de Git para control de versiones y colaboración."
-                        },
-                        "fr": {
-                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration."
-                        },
-                        "ko": {
-                            "text": "버전 관리 및 협업을 위한 Git에 대한 완전한 이해."
-                        }
-                    }
-                },
-
-                {
-                    "id": 8,
-                    "img": "",
-                    "faIcon": "fa-solid fa-server",
-                    "faIconColors": {"bg": "", "fill": "#47A248"},
-                    "date": {"year": 2019, "month": 5},
-                    "percentage": 90,
-                    "locales": {
-                        "en": {
-                            "title": "RDS",
-                            "text": "",
-                            "level": ""
-                        }
-                    }
-                },
-                {
-                    "id": 9,
-                    "img": "",
-                    "faIcon": "fa-solid fa-server",
-                    "faIconColors": {"bg": "", "fill": "#47A248"},
-                    "date": {"year": 2023, "month": 5},
-                    "percentage": 50,
-                    "locales": {
-                        "en": {
-                            "title": "MongoDB",
-                            "text": "",
-                            "level": ""
+                        "nl": {
+                            "text": "Volledige begrip van Git voor versiebeheer en samenwerking."
                         }
                     }
                 }
@@ -354,7 +317,7 @@
                 {
                     "id": 3,
                     "img": "",
-                    "faIcon": "fa-brands fa-js",
+                    "faIcon": "fa-brands fa-js-square",
                     "faIconColors": {"bg": "", "fill": "#F7DF1E", "fillLight": "#a69617"},
                     "date": {"year": 2023, "month": 3},
                     "percentage": 50,
@@ -391,8 +354,14 @@
                     "id": 5,
                     "img": "",
                     "faIcon": "fa-brands fa-bootstrap",
-                    "faIconColors": {"bg": "", "fill": "#7952B3"},
-                    "date": {"year": 2021, "month": 2},
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": "#7952B3"
+                    },
+                    "date": {
+                        "year": 2021,
+                        "month": 2
+                    },
                     "percentage": 50,
                     "locales": {
                         "en": {
@@ -402,6 +371,24 @@
                         },
                         "nl": {
                             "text": "Goede kennis van Bootstrap voor responsief ontwerp."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": "",
+                    "faIcon": "fa-brands fa-vuejs",
+                    "faIconColors": {"bg": "", "fill": "#42b883"},
+                    "date": {"year": 2024, "month": 5},
+                    "percentage": 45,
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js",
+                            "text": "Basic understanding of Vue.js for building interactive user interfaces.",
+                            "level": ""
+                        },
+                        "nl": {
+                            "text": "Basiskennis van Vue.js voor het bouwen van interactieve gebruikersinterfaces."
                         }
                     }
                 }
@@ -434,12 +421,12 @@
                         "en": {
                             "title": "English",
                             "text": "Fluent English speaker with a solid grasp of technical vocabulary and the ability to communicate complex ideas clearly and confidently in professional tech settings.",
-                            "level": "Native"
+                            "level": "Fluent"
                         },
                         "nl": {
                             "title": "Engels",
                             "text": "Vloeiende Engelse spreker met een solide beheersing van technische terminologie en het vermogen om complexe ideeën duidelijk en zelfverzekerd te communiceren in professionele technische omgevingen.",
-                            "level": "Moedertaal"
+                            "level": "Vloeiend"
                         }
                     }
                 },
