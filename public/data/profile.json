@@ -9,13 +9,15 @@
     "locales": {
         "en": {
             "localized_name": "Chukwuemeka Abadom",
-            "localized_name_stylized": "<img src='images/svg/logo-{theme}.svg' style='width:27px; margin-right:9px;'<strong>Emeka {{Abadom}}</strong>",
+            "localized_name_stylized": "[[Emeka {{Abadom}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Java Backend Developer",
                 "Kotlin Backend Developer",
                 "React Developer"
-            ]
+            ],
+            "name_pronunciation_ipa": "/chukwuemeka abadom/",
+            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "nl": {
             "localized_name": "Chukwuemeka Abadom",

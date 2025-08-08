@@ -1,8 +1,8 @@
-# Web CV - React Portfolio Resume
+# Web CV - Chukwuemeka's CV
 
 This is a modern, responsive web version of my CV built using **React** and **Vite**. It serves as an interactive and accessible showcase of my professional experience, skills, education, and portfolio projects.
 
-> 📍 [Live Demo](https://your-deployment-link.com) 
+> 📍 [Live Demo](https://chuksabadom.github.io/emeka-cv/) 
 
 ---
 

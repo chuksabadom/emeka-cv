@@ -59,12 +59,12 @@
                     "locales": {
                         "en": {
                             "title": "Axon",
-                            "text": "</b>Contributed in design and development of the Business Intelligence functionality of Axon a Saas Platform for managing and analyzing insurance business data.</b>.",
+                            "text": "<b>Axon</b> is a cutting-edge SaaS platform designed to revolutionize the way businesses manage their data. With its powerful analytics tools, intuitive dashboards, and seamless integration capabilities, Axon empowers organizations to make data-driven decisions with confidence. Whether you're in finance, healthcare, or any industry that relies on data, Axon provides the insights you need to optimize operations and drive growth.",
                             "tags": ["Insurance", "SaaS", "Business Intelligence", "Data Analysis"]
                         },
                         "nl": {
                             "title": "Axon",
-                            "text": "</b>Bijgedragen aan het ontwerp en de ontwikkeling van de Business Intelligence-functionaliteit van Axon, een SaaS-platform voor het beheren en analyseren van verzekeringsgegevens.</b>.",
+                            "text": "<b>Axon</b> is een geavanceerd SaaS-platform dat is ontworpen om de manier waarop bedrijven hun gegevens beheren te revolutioneren. Met krachtige analysetools, intuïtieve dashboards en naadloze integratiemogelijkheden stelt Axon organisaties in staat om met vertrouwen datagestuurde beslissingen te nemen. Of je nu in de financiële sector, de gezondheidszorg of een andere sector werkt die afhankelijk is van gegevens, Axon biedt de inzichten die je nodig hebt om operaties te optimaliseren en groei te stimuleren.",
                             "tags": ["Verzekering", "SaaS", "Business Intelligence", "Data-analyse"]
                         }
                     }
@@ -88,7 +88,7 @@
                     "locales": {
                         "en": {
                             "title": "ABN AMRO Project",
-                            "text": " Contributed to refactoring and migrating a Java-based SaaS platform for solar panel management and Identipay, improving performance and scalability as part of the ABN AMRO bank migration project.",
+                            "text": "Contributed to refactoring and migrating a Java-based SaaS platform for solar panel management and Identipay, improving performance and scalability as part of the ABN AMRO bank migration project.",
                             "tags": ["Java", "Azure", "RDS", "SaaS", "Spring boot", "Migration"]
                         },
                         "nl": {
@@ -121,7 +121,9 @@
                             "tags": ["SAP", "Process management", "Java", "Kotlin", "Docker"]
                         },
                         "nl": {
-
+                            "title": "SAP Process Management",
+                            "text": "Part of a team to built some features using <b>Java and Kotlin</b> for <b>SAP</b> process management tool that integrates with SAP systems to streamline business processes and enhance operational efficiency.",
+                            "tags": ["SAP", "Process management", "Java", "Kotlin", "Docker"]
                         }
                     }
                 },
