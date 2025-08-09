@@ -68,7 +68,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/content/computer-{theme}.png",
+                    "img": "images/content/computer.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
